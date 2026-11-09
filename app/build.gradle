@@ -1,0 +1,31 @@
+插件{
+身份标识'com.android.application'
+}
+
+Android{
+命名空间'com.example.screenetect'
+compileSdk34
+
+DefaultConfig{
+ApplicationID"com.example.screenetect"
+minSdk21
+targetSdk34
+版本代码1
+版本名称"1.0"
+    }
+
+buildTypes{
+发布{
+minifyEnabled假的
+        }
+    }
+
+编译选项
+sourceCompatibility JavaVersion。版本_1_8
+targetCompatibility JavaVersion。版本_1_8
+    }
+}
+
+相依性{
+实施'androidx.appcompat:appcompat:1.6.1'
+}
