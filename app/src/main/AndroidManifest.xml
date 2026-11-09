@@ -1,0 +1,19 @@
+<没有.版本="1.0"编码="utf-8"？>
+<表明xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <应用
+        安卓：标签="屏幕检测"
+        Android:supportsRtl="真"
+        安卓：主题="@style/Theme.AppCompat.daynight.DarkActionBar">
+
+        <活动
+            安卓：名称=".MainActivity"
+            安卓：已导出="真">
+            <意图过滤器>
+                <行动Android：名称="android.intent.action.MAIN" />
+                <类别Android：名称="android.intent.category.Launcher" />
+            </意图过滤器>
+        </活动>
+    </应用>
+
+</表明>
